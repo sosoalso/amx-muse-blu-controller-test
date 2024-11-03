@@ -1,0 +1,10 @@
+{
+  "id": "blu_test",
+  "name": "blu_test",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}
